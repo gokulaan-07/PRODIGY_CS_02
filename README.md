@@ -1,2 +1,2 @@
 # PRODIGY_CS_02
-A simple tool that checks password strength based on length, use of uppercase/lowercase letters, numbers, and ccspecial characters.c It provides inst ant feedback, classifying passwords as Weak, Moderate, or Strong. Great for learning basic security and string. ikkx    fjjfcccnccnc=ccmccnccncccgcgfhyggfhfwshdw
+A simple tool that checks password strength based on length, use of uppercase/lowercase letters, numbers, and ccspecial characters.c It provides inst ant feedback, classifying passwords as Weak, Moderate, or Strong. Great for learning basic security and string. ikkx    fjjfcccnccnc=ccmccnccncccgcgfdjdjd
